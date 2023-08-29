@@ -6,3 +6,6 @@ BG - ЕДИТНАТА ВЕРСИ НА QB-SCOREBOARD
 
 ENG - THE EDITED VERSION OF QB-SCOREBOARD
        -THERE IS A README IN THE RAR-FILE
+
+
+Preview - https://imgur.com/5TA7kQi
